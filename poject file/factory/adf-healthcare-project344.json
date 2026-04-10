@@ -1,0 +1,9 @@
+{
+	"name": "adf-healthcare-project344",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ad8bac5-1024-4562-a7dd-812ff71af959",
+		"tenantId": "b25329d3-299d-46f2-9bd9-cd0acaad5819"
+	}
+}
